@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Ways to Get Six Figures as a Single Mom</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        ol {
+            list-style: decimal;
+            padding-left: 20px;
+        }
+
+        li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>10 Ways to Get Six Figures as a Single Mom</h1>
+    </header>
+    <div class="container">
+        <p>As a single mom, achieving financial success is both challenging and rewarding. Here are ten ways to help you reach six figures:</p>
+        <ol>
+            <li>Start a Home-Based Business</li>
+            <li>Invest in Your Education</li>
+            <li>Real Estate Investment</li>
+            <li>Freelancing and Consulting</li>
+            <li>Online Sales and E-commerce</li>
+            <li>Financial Planning and Budgeting</li>
+            <li>Networking and Building Relationships</li>
+            <li>Part-Time Jobs and Side Hustles</li>
+            <li>Child Care Services</li>
+            <li>Passive Income Streams</li>
+        </ol>
+    </div>
+</body>
+</html>
